@@ -5,11 +5,12 @@ public class minimumInArray {
     }
 
     private static int Search(int[] arr) {
-        int a=arr[0];
+        int element=arr[0];
         for (int i = 1; i < arr.length; i++) {
-            if(a>arr[i]){
-                a=arr[i];
+            if(element>arr[i]){
+                element=arr[i];
             }
         }
-    return a;}
+    return element;
+    }
 }
