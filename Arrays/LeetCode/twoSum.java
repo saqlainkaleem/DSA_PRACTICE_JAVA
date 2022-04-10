@@ -30,4 +30,3 @@ public abstract class twoSum {
 
     }
 }
-System.out.print("Mobeen");
