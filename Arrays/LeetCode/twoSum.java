@@ -1,6 +1,6 @@
 public abstract class twoSum {
     public static void main(String[] args) {
-        int[] arr = {5,4,52,4,5,2,5,6,2,3,5,12};
+        int[] arr = {5,4,52,4,5,2,5,6,2,3,5,120};
         bubble(arr);
         printArray(arr);
     }
