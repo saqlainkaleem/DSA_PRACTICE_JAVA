@@ -1,6 +1,6 @@
 public abstract class bubbleSort {
     public static void main(String[] args) {
-        int[] arr = {};
+        int[] arr = {4,1,2,4,8,9,6,5,4,5,27,585,545};
         bubble(arr);
         printArray(arr);
     }
