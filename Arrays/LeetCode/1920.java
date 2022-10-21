@@ -1,4 +1,4 @@
-// 1920. Build Array from Permutation
+// 1920.  Build Array from Permutation
 class Solution {
     public int[] buildArray(int[] nums) {
         int[] ans=new int[nums.length];
