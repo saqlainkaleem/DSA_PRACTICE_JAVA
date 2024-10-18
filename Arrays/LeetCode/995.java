@@ -1,3 +1,5 @@
+//Leetcode Question 995 solved in java
+
 class Solution {
     public int minKBitFlips(int[] nums, int k) {
     int n = nums.length;
